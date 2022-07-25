@@ -4,7 +4,7 @@ run some basic unit tests against DLL and SQL scripts.
 
 ## To run the tests
 ```
-mvn clean test
+./mvnw clean test
 ```
 
 Any syntax errors in the DDL or SQL scripts will be picked up by the unit test which also asserts that the transformation
