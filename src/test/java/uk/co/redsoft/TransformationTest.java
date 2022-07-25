@@ -28,7 +28,7 @@ public class TransformationTest {
     }
 
     @Test
-    public void declarationGoodsItemTraderTransformsSuccessfully() throws Exception {
+    public void declarationAndGoodsItemRecordsTransformSuccessfully() throws Exception {
 
         givenDataExistsInTheDeclarationAndGoodsItemTable();
 
